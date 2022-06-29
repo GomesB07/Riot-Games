@@ -7,7 +7,10 @@
 
 <h2>📷Project Images</h2>
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<div display= "flex">
+	<img src="./Assets/Captura Projeto/Print-1.png" width= "200px">
+ 	<img src="./Assets/Captura Projeto/Print-2.png" width= "500px">
+</div>
 
 ---
 <br>
