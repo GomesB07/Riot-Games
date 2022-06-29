@@ -150,7 +150,7 @@ main{
     margin-bottom: 60px;
 }
 .login_button svg{
-    fill: white;
+    fill: black;
 }
 .login_button:disabled{
     cursor: auto;
@@ -170,7 +170,7 @@ main{
 }
 .wallpaper{
     width: 100%;
-    background-image: url(./Imagens/wallpaper.jpeg);
+    background-image: url(./Assets/Img/wallpaper.jpeg);
     background-size: cover;
     background-position: center;
     flex: 1;
